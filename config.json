@@ -43,7 +43,7 @@
 
     "wechat_mp": {
       "token": "ww51339bc569051918",
-      "port": "80"
+      "port": "8088"
     },
     "wechat_com": {
       "wechat_token": "",
