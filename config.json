@@ -2,8 +2,8 @@
   "model": {
     "type" : "chatgpt",
     "openai": {
-      "api_key": "",
-      "api_base": "",
+      "api_key": "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",
+      "api_base": "https://chatgpt.gopher.ink/v1",
       "model": "gpt-3.5-turbo",
       "proxy": "",
       "conversation_max_tokens": 1000,
@@ -43,7 +43,7 @@
 
     "wechat_mp": {
       "token": "ww51339bc569051918",
-      "port": "8088"
+      "port": "80"
     },
     "wechat_com": {
       "wechat_token": "",
